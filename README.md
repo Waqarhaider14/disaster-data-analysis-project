@@ -79,7 +79,7 @@ An interactive dashboard was built to visualize disaster insights:
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard](images/dashboardView.png)
+![Dashboard](images/report.png)
 
 ---
 
